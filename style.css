@@ -1,6 +1,7 @@
 /*Body*/
 h1{
   font-family: 'Cabin', sans-serif;
+  Font-style: italic;
   letter-spacing:2px;
   text-shadow:1px 1px 2px rgba(0,0,0,0.4)
 }
@@ -8,27 +9,28 @@ h1{
 /*NavBar*/
 #mainNavigation a{
   font-family: 'Cabin', sans-serif;
-    font-size:14px;
-    text-transform:uppercase;
-    letter-spacing:2px;
-    text-shadow:1px 1px 2px rgba(0,0,0,0.4)
+  font-style: italic;
+  font-size:14px;
+  text-transform:uppercase;
+  letter-spacing:2px;
+  text-shadow:1px 1px 2px rgba(0,0,0,0.4)
 }
 .nav-item a:hover {
-    color:#fff
+  color:#fff
 }
 .nav-item{
-    min-width:12vw;
+  min-width:12vw;
 }
 #mainNavigation {
-    top:0;
-    left:0;
-    width:100%;
-    z-index:123;
-    padding-bottom:20px;
-    background: -moz-linear-gradient(top,  rgba(0,0,0,0.4) 0%, #ddd5ce 100%);
-    background: -webkit-linear-gradient(top,  rgba(0,0,0,0.4) 0%, #ddd5ce 100%);
-    background: linear-gradient(to bottom,  rgba(0,0,0,0.4) 0%, #ddd5ce 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 );
+  top:0;
+  left:0;
+  width:100%;
+  z-index:123;
+  padding-bottom:20px;
+  background: -moz-linear-gradient(top,  rgba(0,0,0,0.4) 0%, #ddff9f 100%);
+  background: -webkit-linear-gradient(top,  rgba(0,0,0,0.4) 0%, #ddff9f 100%);
+  background: linear-gradient(to bottom,  rgba(0,0,0,0.4) 0%, #ddff9f 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 );
 }
 .navtext{
   padding-bottom: 0px;
@@ -36,55 +38,55 @@ h1{
 
 /*dialog1*/
 .dialog1img{
-    width: 759px;
-    height: auto;
-    margin: auto;
+  width: 759px;
+  height: auto;
+  margin: auto;
 }
 .dialog2img{
-    width: 759px;
-    height: auto;
-    margin: auto;
-    float: right;
+  width: 759px;
+  height: auto;
+  margin: auto;
+  float: right;
 }
 .d1right{
-    background-color: #ddd5ce;
-    font-size: 20px;
-    padding-left: 50px;
-    padding-right: 100px;
-    padding-top: 150px;
+  background-color: #ddff9f;
+  font-size: 20px;
+  padding-left: 50px;
+  padding-right: 100px;
+  padding-top: 150px;
 }
 .d2left{
-    text-align: right;
-    background-color: #ddd5ce;
-    font-size: 20px;
-    padding-left: 50px;
-    padding-right: 100px;
-    padding-top: 150px;
+  text-align: right;
+  background-color: #ddff9f;
+  font-size: 20px;
+  padding-left: 50px;
+  padding-right: 100px;
+  padding-top: 150px;
 }
 .d1left{
-    padding: 0px;
-    background-color: #ddd5ce;
+  padding: 0px;
+  background-color: #ddff9f;
 }
 .d2right{
-    padding: 0px;
-    background-color: #ddd5ce;
+  padding: 0px;
+  background-color: #ddff9f;
     
 }
 .body{
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 /*Gallery*/
 .GalleryText{
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 25px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 25px;
 }
 #Gallery{
-    background: -moz-linear-gradient(top,  #ddd5ce 0%, white 100%);
-    background: -webkit-linear-gradient(top,  #ddd5ce 0%, white 100%);
-    background: linear-gradient(to bottom,  #ddd5ce 0%, white 100%);
+  background: -moz-linear-gradient(top,  #ddff9f 0%, white 100%);
+  background: -webkit-linear-gradient(top,  #ddff9f 0%, white 100%);
+  background: linear-gradient(to bottom,  #ddff9f 0%, white 100%);
 }
 
 /*Reservation*/
@@ -109,8 +111,8 @@ h1{
 .et_pb_more_button{
   display: inline-block !important;
   text-shadow: none;
-    text-decoration: none;
-    margin-top: 20px;
+  text-decoration: none;
+  margin-top: 20px;
 }
 a.et_pb_more_button:after{
   font-style: normal;
@@ -127,7 +129,7 @@ a.et_pb_more_button:after{
 
 /*FAQ*/
 .faq {
-    padding: 60px 0;
+  padding: 60px 0;
 }
 .faq .faq-list {
   padding: 0;
