@@ -27,9 +27,9 @@ h1{
   width:100%;
   z-index:123;
   padding-bottom:20px;
-  background: -moz-linear-gradient(top,  rgba(0,0,0,0.4) 0%, #ddff9f 100%);
-  background: -webkit-linear-gradient(top,  rgba(0,0,0,0.4) 0%, #ddff9f 100%);
-  background: linear-gradient(to bottom,  rgba(0,0,0,0.4) 0%, #ddff9f 100%);
+  background: -moz-linear-gradient(top,  rgba(0,0,0,0.4) 0%, #dcccb6 100%);
+  background: -webkit-linear-gradient(top,  rgba(0,0,0,0.4) 0%, #dcccb6 100%);
+  background: linear-gradient(to bottom,  rgba(0,0,0,0.4) 0%, #dcccb6 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 );
 }
 .navtext{
@@ -49,7 +49,7 @@ h1{
   float: right;
 }
 .d1right{
-  background-color: #ddff9f;
+  background-color: #dcccb6;
   font-size: 20px;
   padding-left: 50px;
   padding-right: 100px;
@@ -57,7 +57,7 @@ h1{
 }
 .d2left{
   text-align: right;
-  background-color: #ddff9f;
+  background-color: #dcccb6;
   font-size: 20px;
   padding-left: 50px;
   padding-right: 100px;
@@ -65,11 +65,11 @@ h1{
 }
 .d1left{
   padding: 0px;
-  background-color: #ddff9f;
+  background-color: #dcccb6;
 }
 .d2right{
   padding: 0px;
-  background-color: #ddff9f;
+  background-color: #dcccb6;
     
 }
 .body{
@@ -84,9 +84,9 @@ h1{
   padding-bottom: 25px;
 }
 #Gallery{
-  background: -moz-linear-gradient(top,  #ddff9f 0%, white 100%);
-  background: -webkit-linear-gradient(top,  #ddff9f 0%, white 100%);
-  background: linear-gradient(to bottom,  #ddff9f 0%, white 100%);
+  background: -moz-linear-gradient(top,  #dcccb6 0%, white 100%);
+  background: -webkit-linear-gradient(top,  #dcccb6 0%, white 100%);
+  background: linear-gradient(to bottom,  #dcccb6 0%, white 100%);
 }
 
 /*Reservation*/
